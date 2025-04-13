@@ -1,0 +1,9 @@
+label{
+    display: block;
+}
+.one label{
+    display: inline;
+}
+.one {
+    margin-top: 10px;
+}
