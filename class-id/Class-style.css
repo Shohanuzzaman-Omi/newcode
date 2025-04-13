@@ -17,7 +17,7 @@ div{
 
 /* 
 
-    In HTML, a class is used to style multiple elements with the same design, while an ID is meant for targeting one unique element on a page. You can reuse a class as many times as needed, but an ID should only appear once. In CSS, classes are selected using a dot (.class), and IDs are selected using a hash (#id). So, use classes for general styling and IDs for specific, one-time styling or JavaScript targeting.
+    HTML-এ, class ব্যবহার করা হয় একই ধরনের একাধিক এলিমেন্টকে স্টাইল করতে, আর ID ব্যবহার হয় একটি নির্দিষ্ট, ইউনিক এলিমেন্টকে টার্গেট করার জন্য। একটি class যতবার খুশি ব্যবহার করা যায়, কিন্তু একটি ID একটি পেজে একবারই ব্যবহার করা উচিত। CSS-এ, class সিলেক্ট করতে ডট (.class) এবং ID সিলেক্ট করতে হ্যাশ (#id) ব্যবহার করা হয়। তাই সাধারণ স্টাইলিংয়ের জন্য class ব্যবহার করুন, আর নির্দিষ্ট কোনো এলিমেন্টের জন্য ID।
 
 */
 
